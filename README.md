@@ -14,3 +14,5 @@ Local development uses an in-memory H2 database.
 PostgreSQL will be configured through Docker Compose.
 
 Documentation: initial
+
+Documentation status: initial
