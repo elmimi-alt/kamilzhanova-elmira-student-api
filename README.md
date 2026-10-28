@@ -15,4 +15,4 @@ PostgreSQL will be configured through Docker Compose.
 
 Documentation: initial
 
-Documentation status: initial
+Documentation status: updated in documentation branch
