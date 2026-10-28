@@ -17,3 +17,5 @@ Documentation: initial
 Documentation status: final version by Kamilzhanova Elmira
 
 CI: Jenkins checks GitHub for changes every five minutes.
+
+CI: Jenkins checks GitHub for changes every f5 minutes.
