@@ -33,4 +33,3 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
-throw new GradleException("Controlled CI failure: Kamilzhanova Elmira")
